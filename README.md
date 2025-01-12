@@ -8,7 +8,8 @@ Sou um **Desenvolvedor de Software**, atualmente cursando **Análise e Desenvolv
 - 🌱 **Atualmente Estudando:** Python, React JS, AWS e Cibersegurança.
 - 💼 **Em busca de:** Oportunidades de estágio para aplicar e expandir meus conhecimentos.
 - 🌟 **Principais Habilidades:**
-  - **Linguagens:** Python, HTML, CSS, JavaScript, SQL Server.
+  - **HTML, CSS**
+  - **Linguagens:** Python, JavaScript, SQL Server.
   - **Frameworks:** React JS, React Native.
   - **Ferramentas:** Linux (Debian), AWS, Excel, PowerPoint, Word.
   - **Certificações:**
